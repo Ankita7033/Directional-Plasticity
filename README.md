@@ -364,13 +364,13 @@ against magnitude under the matched-step control. The Phase-1 manuscript is kept
 If you use this code or build on the results, please cite:
 
 ```bibtex
-@misc{gona2026weightnorm,
+@misc{ankita2026weightnorm,
   title  = {Weight-Norm Growth and Update Geometry in Loss of Plasticity:
             A Matched-Step-Size Study},
   author = {Gona Lalith, Ankita Maji},
   year   = {2026},
   note   = {IEEE ICA 2026},
-  url    = {https://github.com/lalith557/Directional-plasticity}
+  url    = {https://github.com/Ankita7033/Directional-plasticity}
 }
 ```
 
@@ -380,9 +380,9 @@ If you use this code or build on the results, please cite:
 
 The source code is released under the [MIT License](LICENSE). The paper (`Research Paper.pdf`,
 `web/public/paper/plasticity-paper.pdf` and the LaTeX source in `paper/`) is not covered by
-that license; it remains © 2026 Gona Lalith and Ankita Maji, or the publisher where copyright
+that license; it remains © 2026 Ankita Maji and Gona Lalith, or the publisher where copyright
 has been transferred.
 
 ## Authors
 
-**Gona Lalith** and **Ankita Maji**
+**Ankita Maji** and **Gona Lalith**
