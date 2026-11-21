@@ -1,0 +1,56 @@
+# Datasets (large; see README → Setup for the expected layout)
+/Deep Learning Dataset1/
+/cifar-10/
+/cifar100/
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Node / web build output
+node_modules/
+web/dist/
+.vite/
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.pkl
+*.joblib
+
+# Experiment caches and temporary files
+wandb/
+.mlflow/
+lightning_logs/
+.tensorboard/
+*.log
+*.tmp
+
+# Python environments and caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
